@@ -17,4 +17,7 @@
     <a href="https://codeforces.com/profile/layan2222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/layan2222a" height="30" width="40" /></a>
 
 </p>
-
+<div align="center">
+   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Layan-Abumousa/Layan-Abumousa/output/github-contribution-grid-snake.svg" />
+</div>
+<br/>
