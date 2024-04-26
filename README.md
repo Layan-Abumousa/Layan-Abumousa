@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=1000&pause=800&color=FF0099&center=true&width=435&lines=Hi+Guyys...;I'm+Layan+AbuMousa+✨;A+Passionate+Computer+Systems+Engineering+Student;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=FF0099&center=true&width=435&lines=Hi+Guyys...;I'm+Layan+AbuMousa+✨;A+Passionate+Computer+Systems+Engineering+Student;" alt="Typing SVG" />
 
 
 - 🔭 I’m currently a **CSE student at PTUK**
