@@ -5,9 +5,8 @@
 - 🔭 I’m currently a **CSE student at PTUK**
 - 👩‍💻 I’m  a Programming Course Trainer, UI/UX Designer & Problem Solver 
 - 💬 Ask me about Problem Solving ...
-- ⚡ Fun fact: "Hello, World!" originated in 1967.
 - 📫 How to reach me: layanabumousa1@gmail.com 
-
+- ⚡ Fun fact: "Hello, World!" originated in 1967.
 
 <img src="l.gif" width="1100px" height="20px">
 
