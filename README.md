@@ -7,6 +7,7 @@
 - 👩‍💻 I’m  a Programming Course Trainer, UI/UX Designer & Problem Solver 
 - 💬 Ask me about Problem Solving ...
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
+<img src="ll.gif" width="1100px" height="10px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
