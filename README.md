@@ -24,4 +24,4 @@
 <h2>Skills 🧠💡</a>
 
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
