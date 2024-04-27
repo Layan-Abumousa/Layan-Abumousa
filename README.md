@@ -33,11 +33,9 @@
   <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Layan-Abumousa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Layan-Abumousa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Layan-Abumousa&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Abumousa&layout=compact&langs_count=8&card_width=320" />
+</p>
 
