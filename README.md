@@ -16,4 +16,7 @@
 <a href="https://leetcode.com/u/layan0am/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/layan0am/" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/layan2222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/layan2222a" height="30" width="40" /></a>
 
-  ![Snake animation](https://github.com/Layan-Abumousa/Layan-Abumousa/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Layan-Abumousa/Layan-Abumousa/output/github-contribution-grid-snake.svg" />
+</div>
+<br/>
