@@ -28,7 +28,7 @@
 
 <h3>Problem Solving 📉</h3>
 <div align="center">
-  <img height=400 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#FFF" />
+  <img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#FFF" />
     &ensp;
-  <img height=400 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
+  <img height=300 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 </div>
