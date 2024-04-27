@@ -22,4 +22,4 @@
 <h2>Skills 🧠💡</h2>
 
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,cs,dart)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma)
