@@ -18,8 +18,8 @@
 <a href="https://www.linkedin.com/in/layan-abu-mousa-a469692a4//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/layan-abu-mousa-a469692a4//" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/layan0am/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/layan0am/" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/layan2222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/layan2222a" height="30" width="40" /></a>
-<br /> 
-<img src="l.gif" width="1100px" height="20px">
+  
+<img src="l.gif" width="1100px" height="20px"></a>
 
 <h2>Skills 🧠💡</h3>
 
