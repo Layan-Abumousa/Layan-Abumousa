@@ -32,7 +32,7 @@
     &ensp;
   <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 </div>
-
+<h3>Github Statistics 📈</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Layan-Abumousa&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa" />
