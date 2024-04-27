@@ -28,9 +28,9 @@
 
 <h3>Problem Solving 📉</h3>
 <div align="center">
-  <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#FFF" />
+  <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=radical&border_color=#FFF" />
     &ensp;
-  <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
+  <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=radical&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 <h3>Github Statistics 📈</h3>
 <p align="center">
