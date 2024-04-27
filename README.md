@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/layan-abu-mousa-a469692a4//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/layan-abu-mousa-a469692a4//" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/layan0am/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/layan0am/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/layan_am/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/layan_am/" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/layan2222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/layan2222a" height="30" width="40" /></a>
   
 <img src="l.gif" width="1100px" height="20px"></a>
@@ -31,7 +31,7 @@
 <div align="center">
   <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#000" />
     &ensp;
-  <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#000" />
+  <img height=200 src="https://leetcode.card.workers.dev/layan_am?theme=nord&font=baloo&extension=activity&border_color=#000" />
 </div>
 <img src="l.gif" width="1100px" height="20px"></a>
 
