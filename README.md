@@ -25,8 +25,7 @@
 
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BreadcrumbsLayan-Abumousa&layout=compact&langs_count=8&card_width=320" />
-</p>
+
 <h3>Problem Solving 📉</h3>
 <div align="center">
   <img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#FFF" />
