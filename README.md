@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=FF0099&center=true&width=435&lines=Hi+Guyys...;I'm+Layan+AbuMousa+✨;A+Passionate+Computer+Systems+Engineering+Student;" alt="Typing SVG" />
-![ProfileView](https://komarev.com/ghpvc/?username=Layan-Abumousa&label=Profile%20views&color=blueviolet)
 
+![ProfileView](https://komarev.com/ghpvc/?username=Layan-Abumousa&label=Profile%20views&color=blueviolet)
 
 - 🔭 I’m currently a **CSE student at PTUK**
 - 👩‍💻 I’m  a Programming Course Trainer, UI/UX Designer & Problem Solver 
