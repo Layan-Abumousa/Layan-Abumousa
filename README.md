@@ -9,7 +9,9 @@
 - 📫 How to reach me: layanabumousa1@gmail.com 
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
 
+
 <img src="l.gif" width="1100px" height="20px">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +21,7 @@
   
 <img src="l.gif" width="1100px" height="20px">
 
-<h2>Skills 🧠💡
+<h2>Skills 🧠💡</h3>
 
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)
