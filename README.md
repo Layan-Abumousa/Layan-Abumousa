@@ -10,7 +10,7 @@
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
 
 
-<img src="l.gif" width="1100px" height="20px">
+</h2> <img src="l.gif" width="1100px" height="20px">
 
 
 <h3 align="left">Connect with me:</h3>
