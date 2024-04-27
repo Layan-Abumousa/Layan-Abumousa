@@ -21,7 +21,7 @@
   
 <img src="l.gif" width="1100px" height="20px"></a>
 
-<h3 align="left">Skills 🧠💡</b>
+<h3 align="left">Skills 💡</h3>
 
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
