@@ -25,6 +25,7 @@
 
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
+<img src="l.gif" width="1100px" height="20px"></a>
 
 <h3>Problem Solving 📉</h3>
 <div align="center">
@@ -32,6 +33,8 @@
     &ensp;
   <img height=200 src="https://leetcode.card.workers.dev/layan0am?theme=nord&font=baloo&extension=activity&border_color=#000" />
 </div>
+<img src="l.gif" width="1100px" height="20px"></a>
+
 <h3>Github Statistics 📈</h3>
 <p align="center">
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa&theme=radical&hide_border=true" alt="Layan-Abumousa" />
