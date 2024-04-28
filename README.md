@@ -27,7 +27,7 @@
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,githubactions,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
 <img src="l.gif" width="1100px" height="20px"></a>
 
-<h3>Problem Solving 📉</h3>
+<h3>Problem Solving 📈</h3>
 <div align="center">
   <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#000" />
     &ensp;
