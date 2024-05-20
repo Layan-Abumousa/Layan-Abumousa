@@ -35,7 +35,6 @@
 <img src="l.gif" width="1100px" height="20px"></a>
 
 <h3>Github Statistics 📈</h3>
-<details>
     <div align="center">
       <img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Abumousa&layout=compact&theme=radical&hide_border=true" />
         &ensp;
@@ -44,7 +43,6 @@
         &ensp;
       <img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa&theme=radical&hide_border=true" />
     </div>
-</details>
 
 
 
