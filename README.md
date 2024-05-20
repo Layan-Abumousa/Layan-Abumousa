@@ -36,7 +36,6 @@
 
 <h3>Github Statistics 📈</h3>
 <details>
-  <summary><h3>Github Statistics 📈</h3></summary>
     <div align="center">
       <img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Abumousa&layout=compact&theme=radical&hide_border=true" />
         &ensp;
