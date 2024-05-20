@@ -38,8 +38,8 @@
     <div align="center">
       <img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=Layan-Abumousa&layout=compact&theme=radical&hide_border=true" />
         &ensp;
-      <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Layan-Abumousa&theme=radical&hide_border=true" />
-      <img height=171 src="https://github-readme-stats.vercel.app/api?username=Layan-Abumousa&theme=radical&hide_border=true" />
+<!--       <img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Layan-Abumousa&theme=radical&hide_border=true" />
+      <img height=171 src="https://github-readme-stats.vercel.app/api?username=Layan-Abumousa&theme=radical&hide_border=true" /> -->
         &ensp;
       <img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=Layan-Abumousa&theme=radical&hide_border=true" />
     </div>
