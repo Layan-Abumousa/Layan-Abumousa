@@ -4,7 +4,7 @@
 ![ProfileView](https://komarev.com/ghpvc/?username=Layan-Abumousa&label=Profile%20views&color=blueviolet)
 
 - 🔭 I’m currently a **CSE student at PTUK**
-- 💻 I'm currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**
 - 👩‍💻 I’m  a Programming Course Trainer, UI/UX Designer & Problem Solver 
 - 💬 Ask me about Problem Solving ...
 - 📫 How to reach me: layanabumousa1@gmail.com 
