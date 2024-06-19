@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=FF0099&center=true&width=500&lines=Hi+Guyys...;I'm+Layan+AbuMousa+✨;A+Passionate+Computer+Systems+Engineering+Student;" alt="Typing SVG" /h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=FF0099&center=true&width=500&lines=Hi+Guyys...;I'm+Layan+AbuMousa+✨;A+Passionate+Computer+Systems+Engineering+Student;" alt="Typing SVG" </h1>
 
 ![ProfileView](https://komarev.com/ghpvc/?username=Layan-Abumousa&label=Profile%20views&color=blueviolet)
 
