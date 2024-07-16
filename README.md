@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a **CSE student at PTUK**
 - 🌱 I'm currently learning **Flutter**
-- 👩‍💻 I’m  a Programming Course Trainer, UI/UX Designer & Problem Solver 
+- 👩‍💻 I’m  a Programming Course Trainer,Freelancer, UI/UX Designer & Problem Solver 
 - 💬 Ask me about Problem Solving ...
 - 📫 How to reach me: layanabumousa1@gmail.com 
 - ⚡ Fun fact: "Hello, World!" originated in 1967.
