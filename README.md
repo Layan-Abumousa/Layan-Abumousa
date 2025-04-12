@@ -31,7 +31,7 @@
 
 <h3>Problem Solving 📈</h3>
 <div align="center">
-  <img height=200 src="https://codeforces-readme-stats.vercel.app/api/card?username=layan2222a&force_username=true&theme=nord&border_color=#000" />
+<img src="https://raw.githubusercontent.com/Layan.AbuMousa/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
     &ensp;
   <img height=200 src="https://leetcode.card.workers.dev/layan_am?theme=nord&font=baloo&extension=activity&border_color=#000" />
 </div>
