@@ -29,13 +29,13 @@
 ![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,github,xd,vscode,visualstudio,dart,figma,flutter,powershell,stackoverflow,unity	)</a>
 <img src="l.gif" width="1100px" height="20px"></a>
 
-/* <h3>Problem Solving 📈</h3>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Layan.AbuMousa/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-  <img height=200 src="https://leetcode.card.workers.dev/layan_am?theme=nord&font=baloo&extension=activity&border_color=#000" />
-</div>
-<img src="l.gif" width="1100px" height="20px"></a>
-*/
+// <h3>Problem Solving 📈</h3>
+//<div align="center">
+// <img src="https://raw.githubusercontent.com/Layan.AbuMousa/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+//  <img height=200 src="https://leetcode.card.workers.dev/layan_am?theme=nord&font=baloo&extension=activity&border_color=#000" />
+//</div>
+//<img src="l.gif" width="1100px" height="20px"></a>
+
 
 <h3>Github Statistics 📈</h3>
     <div align="center">
